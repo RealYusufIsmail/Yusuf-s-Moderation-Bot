@@ -12,3 +12,5 @@ More commands to come.
 [![DeepSource](https://deepsource.io/gh/RealYusufIsmail/YusufIsmail_Discord_Bot_Java.svg/?label=resolved+issues&show_trend=true&token=C908jqB0KnBNq0CI5Oeyu46I)](https://deepsource.io/gh/RealYusufIsmail/YusufIsmail_Discord_Bot_Java/?ref=repository-badge)
 
 Copyright 2021, Yusuf Ismail , All rights reserved.
+
+That Bot has been moved here https://github.com/Yusuf-s-Discord-bot/Yusuf-s-Moderation-Bot
